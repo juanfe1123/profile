@@ -1,0 +1,12 @@
+@media screen and (max-width: 375px){
+    body{
+        background-position-x: 130%,-24%;
+        background-position-y: 143%,-70%;
+    }
+    .card{
+        margin-top: 40%;
+    }
+    .card_info{
+        font-size: .8em;
+    }
+}
